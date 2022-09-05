@@ -8,10 +8,13 @@ footer {
     height: 120px;
     background-color: blue;
     color: white;
+    padding: 20px 0 40px 0;
 }
 h1,
 h2 {
     text-align: center;
+    padding-top: 10px;
+
 }
 img {
     display: block;
